@@ -88,4 +88,4 @@ To all the peers that contribuited with their knowledge
 
 ### Authors:
 * Mouhcine Ezzaidi - @mouhcineezzaidi
-* Mohammed Sekkat - @mohammedsekkat
+* Mohammed Sekkat - @Mohammedsekk
